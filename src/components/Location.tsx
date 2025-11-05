@@ -31,9 +31,20 @@ const Location: React.FC = () => {
               <p className="text-gray-700 mb-2">
                 Vila Antonieta (Zona Leste)
               </p>
-              <p className="text-gray-700 mb-4">
+              <p className="text-gray-700 mb-2">
                 São Paulo - SP, CEP: 03475-010
               </p>
+              <div className="mt-4 pt-4 border-t border-gray-200">
+                <p className="text-sm text-gray-600 mb-1">
+                  <strong>Razão Social:</strong> Cleisson Cassiano Cruz
+                </p>
+                <p className="text-sm text-gray-600 mb-1">
+                  <strong>Nome Fantasia:</strong> JDC Cacambas
+                </p>
+                <p className="text-sm text-gray-600">
+                  <strong>CNPJ:</strong> 14.432.566/0001-05
+                </p>
+              </div>
             </div>
             <div>
               <h3 className="text-xl font-bold text-primary mb-4">Como Chegar</h3>
